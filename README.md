@@ -1,2 +1,2 @@
 # DS-Em-Producao
-Repositório de um projeto de problema de predição para a empresa fictícia Rossmann. Será desenvolvido no curso DS em produção da Comunidade DS.
+Repositório utilizado no desenvolvimento das etapas de um projeto de predição, feito durante o curso 'DS Em Produção', da comunhidade DS, ministrado por Meigarom Lopes.
